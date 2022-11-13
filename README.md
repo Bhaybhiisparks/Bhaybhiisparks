@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I am a fullstack developer with the following stacks:
             HTML5, CSS3, Javascript(ES 6 (2015)), GIT and GTIHUB . I am open to
-            contributing to open source and volunteer work.
+            contributing to open source and volunteer work, contract jobs.
 
 
 ## 🔗 Links
@@ -16,7 +16,7 @@ I am a fullstack developer with the following stacks:
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on contributing to jupyther open source under the outreachy program
+👩‍💻 I'm currently working on contributing to jupyther open source and public labs under the outreachy program
 
 Currently contributing to public labs open source under the outreachy program
 
@@ -25,11 +25,11 @@ Currently contributing to public labs open source under the outreachy program
 
 👯‍♀️ I'm looking to collaborate on more open source projects.
 
-🤔 I'm looking for help with advanced javascript.
+🤔 I'm looking for help with advanced javascript and react.js.
 
 💬 Ask me about front end and back end(node.js) development
 
-📫 How to reach me : I attached links to some of my social media handles above.
+📫 How to reach me : I attached links to some of my social media handle(s) above.
 
 😄 Pronouns SHE/HER/HERS
 
