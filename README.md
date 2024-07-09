@@ -28,9 +28,9 @@ https://github.com/Bhaybhiisparks/SchoolGram-V1
 
 👯‍♀️ I'm looking to collaborate on open source projects.
 
-🤔 I'm looking for help with advanced 
+🤔 I'm looking for help with Tailwind and Material UI.
 
-💬 Ask me about Full Stack Development
+💬 Ask me about Full Stack Development.
 
 📫 How to reach me : I attached links to some of my social media handle(s) above.
 
