@@ -41,6 +41,6 @@ https://github.com/Bhaybhiisparks/SchoolGram-V1
 
 ## 🛠 Skills
 MERN - Javascript, HTML, CSS, Node.js, Express.js React.js, MongoDB.
-Teamwork, Effective Communication, Collaboration, Eager to learn, 
+English(CEFR - C2),Teamwork, Effective Communication, Collaboration, Eager to learn, 
 Creative thinking, Disciplined, Proactiveness, Time conscious and Ready to work.
 
