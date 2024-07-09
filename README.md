@@ -3,9 +3,11 @@
 
 
 ## 🚀 About Me
-I am a fullstack developer with the following stacks:
-            HTML5, CSS3, Javascript(ES 6 (2015)), GIT and GTIHUB . I am open to
-            contributing to open source and volunteer work, contract jobs.
+I am a Fullstack Developer (MERN) with the following stacks:
+            HTML5, CSS3, Javascript(ES 6 (2015)), React.js,
+            Node.js, Express.js GIT and GTIHUB . I am open to
+            contributing to open source and volunteer work.
+            I work remotely only.
 
 
 ## 🔗 Links
@@ -13,21 +15,22 @@ I am a fullstack developer with the following stacks:
 [![linkedin](https://www.linkedin.com/in/osagioduwa-faith-541a691ab)](https://www.linkedin.com/)
 [![twitter](https://twitter.com/Bhaybhiisparks)](https://twitter.com/)
 [![facebook](https://www.facebook.com/profile.php?id=100006879672861)](https://katherineoelsner.com/)
+[![replit]((https://replit.com/@OsagioduwaFaith))
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on contributing to jupyther open source and public labs under the outreachy program
+👩‍💻 I'm currently maintaining my final year undergraduate degree project (SCHOOLGRAM)
+https://github.com/Bhaybhiisparks/SchoolGram-V1
 
-Currently contributing to public labs open source under the outreachy program
 
 
-🧠 I'm currently learning full stack web development at zuri inc remotely.
+🧠 I'm currently looking for a Junior Full Stack Developer Role
 
-👯‍♀️ I'm looking to collaborate on more open source projects.
+👯‍♀️ I'm looking to collaborate on open source projects.
 
-🤔 I'm looking for help with advanced javascript and react.js.
+🤔 I'm looking for help with advanced 
 
-💬 Ask me about front end and back end(node.js) development
+💬 Ask me about Full Stack Development
 
 📫 How to reach me : I attached links to some of my social media handle(s) above.
 
@@ -37,5 +40,7 @@ Currently contributing to public labs open source under the outreachy program
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Node.js
+MERN - Javascript, HTML, CSS, Node.js, Express.js React.js, MongoDB.
+Teamwork, Effective Communication, Collaboration, Eager to learn, 
+Creative thinking, Disciplined, Proactiveness, Time conscious and Ready to work.
 
