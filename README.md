@@ -17,6 +17,10 @@ I am a Fullstack Developer (MERN) with the following stacks:
 [![facebook](https://www.facebook.com/profile.php?id=100006879672861)](https://katherineoelsner.com/)
 [![replit]((https://replit.com/@OsagioduwaFaith))
 
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bhaybhiisparks)
+
+
+
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently maintaining my final year undergraduate degree project (SCHOOLGRAM)
