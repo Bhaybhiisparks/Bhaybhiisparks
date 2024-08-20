@@ -4,9 +4,11 @@
 
 ## 🚀 About Me
 I am a Fullstack Developer (MERN) with the following stacks:
-            HTML5, CSS3, Javascript(ES 6 (2015)), React.js,
-            Node.js, Express.js GIT and GTIHUB . I am open to
-            contributing to open source and volunteer work.
+            HTML5, CSS3, Javascript(ES 6 (2015)), React.js, 
+            Tailwind, Node.js, Express.js GIT and GTIHUB . 
+            I am open to open source contribution and 
+            internship, part time or full time frontend
+            developer roles.
             I work remotely only.
 
 
@@ -27,17 +29,18 @@ I am a Fullstack Developer (MERN) with the following stacks:
 
 
 
-## Other Common Github Profile Sections
+## Profile Sections
+
 👩‍💻 I'm currently maintaining my final year undergraduate degree project (SCHOOLGRAM)
 https://github.com/Bhaybhiisparks/SchoolGram-V1
 
 
 
-🧠 I'm currently looking for a Junior Full Stack Developer Role
+🧠 I'm currently looking for a Junior Full Stack Developer/ Junior Frontend Developer Role
 
 👯‍♀️ I'm looking to collaborate on open source projects.
 
-🤔 I'm looking for help with Tailwind CSS and Typescript.
+🤔 I'm looking for help with Next.js and Typescript.
 
 💬 Ask me about Full Stack Development Roadmap.
 
@@ -49,7 +52,7 @@ https://github.com/Bhaybhiisparks/SchoolGram-V1
 
 
 ## 🛠 Skills
-MERN - Javascript, HTML, CSS, Node.js, Express.js React.js, MongoDB.
+MERN - Javascript, HTML, CSS, Node.js, Express.js React.js, Tailwind, MongoDB.
 English(CEFR - C2),Teamwork, Effective Communication, Collaboration, Eager to learn, 
 Creative thinking, Disciplined, Proactiveness, Time conscious and Ready to work.
 
