@@ -32,11 +32,12 @@ I am a Fullstack Developer (MERN) with the following stacks:
 ## Profile Sections
 
 👩‍💻 I'm currently maintaining my final year undergraduate degree project (SCHOOLGRAM)
-https://github.com/Bhaybhiisparks/SchoolGram-V1
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhaybhiisparks/SchoolGram-V1)
 
 
 
-🧠 I'm currently looking for a Junior Full Stack Developer/ Junior Frontend Developer Role
+
+🧠 I'm currently looking for a Junior Full Stack Developer/ Junior Frontend Developer Roles.
 
 👯‍♀️ I'm looking to collaborate on open source projects.
 
