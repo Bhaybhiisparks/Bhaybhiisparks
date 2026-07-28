@@ -14,7 +14,7 @@ I am a Fullstack Developer (MERN) with the following stacks:
 
 ## 🔗 Links
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osagioduwa-faith-541a691ab/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https,/www.linkedin.com/in/faith-osagioduwa-541a691ab/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bhaybhiisparks)
 [![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006879672861)
 [![Replit](https://img.shields.io/badge/Replit-%230d1a3f?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@OsagioduwaFaith)
@@ -31,14 +31,14 @@ I am a Fullstack Developer (MERN) with the following stacks:
 
 ## Profile Sections
 
-👩‍💻 I'm currently maintaining my final year undergraduate degree project 
+👩‍💻 I'm currently maintaining my final year undergraduate degree project and contributing to open source projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhaybhiisparks/SchoolGram-V1) (SCHOOLGRAM)
 
 
 
 
-🧠 I'm currently looking for a Junior Full Stack Developer/ Junior Frontend Developer Roles.
+🧠 I'm currently looking for a Junior Full Stack Developer/ Frontend Developer Role.
 
 👯‍♀️ I'm looking to collaborate on open source projects.
 
@@ -46,7 +46,7 @@ I am a Fullstack Developer (MERN) with the following stacks:
 
 💬 Ask me about Full Stack Development Roadmap.
 
-📫 How to reach me : I attached links to some of my social media handle(s) above.
+📫 How to reach me : I attached links to some of my socials above.
 
 😄 Pronouns SHE/HER/HERS
 
